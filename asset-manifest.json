@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/TaskMaster/static/js/main.baa8e3f3.js",
+    "index.html": "/TaskMaster/index.html",
+    "main.baa8e3f3.js.map": "/TaskMaster/static/js/main.baa8e3f3.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.baa8e3f3.js"
+  ]
+}
