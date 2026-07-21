@@ -23,3 +23,7 @@
 ### 7/15/2026 - TypeScript Generics & Conditional Types
 - Completed learning segment on: *Created comprehensive unit tests for custom helpers and logic paths.*
 - Sandbox action completed: `Updated logger service to support file stream rotations.`
+
+### 7/21/2026 - Error Boundaries and Global Exception Handlers
+- Completed learning segment on: *Documented design systems, core metrics, and operational guidelines.*
+- Sandbox action completed: `Updated logger service to support file stream rotations.`
