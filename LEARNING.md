@@ -27,3 +27,7 @@
 ### 7/21/2026 - Error Boundaries and Global Exception Handlers
 - Completed learning segment on: *Documented design systems, core metrics, and operational guidelines.*
 - Sandbox action completed: `Updated logger service to support file stream rotations.`
+
+### 7/25/2026 - RESTful API Rate Limiting and Security Headers
+- Completed learning segment on: *Documented design systems, core metrics, and operational guidelines.*
+- Sandbox action completed: `Updated logger service to support file stream rotations.`
